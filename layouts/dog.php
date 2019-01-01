@@ -4,11 +4,11 @@
   include '../classes/Dog.php';
 
   $dogs = [
-    new Malamut(4, 'reindeer', 'Fluffy', 'male'),
-    new Malamut('4 months', 'reindeer', 'Dude', 'female'),
-    new Malamut(1, 'reindeer', 'Paw', 'female'),
-    new Malamut(2, 'reindeer', 'Giant', 'female'),
-    new Malamut('2 months', 'reindeer', 'SnowFlake', 'male')
+    new Malamute(4, 'reindeer', 'Fluffy', 'male'),
+    new Malamute('4 months', 'reindeer', 'Dude', 'female'),
+    new Malamute(1, 'reindeer', 'Paw', 'female'),
+    new Malamute(2, 'reindeer', 'Giant', 'female'),
+    new Malamute('2 months', 'reindeer', 'SnowFlake', 'male')
   ];
 ?>
 

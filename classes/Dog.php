@@ -25,7 +25,7 @@ abstract class SledDog extends Dog{
 
 }
 
-class Malamut extends SledDog{
+class Malamute extends SledDog{
 
   protected $subSpecies;
 
